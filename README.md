@@ -20,4 +20,5 @@ If we know 'm' is prime, then we can also use Fermats’s little theorem to find
 If we multiply both sides with a<sup>-1</sup>, we get
 > a<sup>-1</sup> ≡ a <sup> m-2 </sup> (mod m) 
 
+In this repository there are both Python and C++ implementation of Fermat's Primality test
 
